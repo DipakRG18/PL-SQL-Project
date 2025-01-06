@@ -1,4 +1,4 @@
--- Graduate-Level
+
 
 -- Step 1: Create the Database Schema
 -- Drop tables if they already exist (optional cleanup for development)
